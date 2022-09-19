@@ -40,7 +40,7 @@ const App = () => {
       <div className="card-container">
         {infoCards.map((card)  =>  {
           return(
-            <Card {...card}/>
+            <Card {...card} key={card.image}/>
           )
         })}
       </div>
