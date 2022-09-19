@@ -1,0 +1,16 @@
+.hero-container {
+  background-color: #1F2535;
+  padding: 50px 100px 100px;
+}
+
+.hero-container > h1 {
+  width: 40vw;
+  color: white;
+  font-size: 64px;
+}
+
+.hero-container > p {
+  width: 40vw;
+  color: white;
+  font-size: 26px;
+}

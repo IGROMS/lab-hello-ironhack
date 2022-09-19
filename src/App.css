@@ -1,0 +1,11 @@
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 40px;
+  padding: 50px 40px;
+}
+
+body {
+  background-color: aliceblue;
+  font-family: Roboto;
+}
